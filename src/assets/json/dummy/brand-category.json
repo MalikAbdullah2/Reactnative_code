@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id":1,
+            "category": "Nike Sport"
+        },
+        {
+            "id":2,
+            "category": "Apple Tech"
+        },
+        {
+            "id":3,
+            "category": "Fendi Fashion"
+        },
+        {
+            "id":4,
+            "category": "Gucci Fashion"
+        },
+        {
+            "id":5,
+            "category": "Samsung Tech"
+        },
+        {
+            "id":6,
+            "category": "Sony Tech"
+        }
+    ]
+}

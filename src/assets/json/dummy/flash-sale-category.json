@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id":1,
+            "category": "laptop"
+        },
+        {
+            "id":2,
+            "category": "cloth"
+        },
+        {
+            "id":3,
+            "category": "laptop"
+        },
+        {
+            "id":4,
+            "category": "cloth"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "id":1,
+            "category": "discount 10%"
+        },
+        {
+            "id":2,
+            "category": "start from $50"
+        },
+        {
+            "id":3,
+            "category": "discount 20%"
+        },
+        {
+            "id":4,
+            "category": "discount 10%"
+        }
+    ]
+}
